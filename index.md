@@ -1,4 +1,9 @@
-# Hi
+# Thomas's First CS193 Homework
+
+## Favorite Things About CS193
+- It is a computer science class
+- It seems easy and enjoyable
+- I enjoy making things with computers
 
 ## Welcome to GitHub Pages
 
